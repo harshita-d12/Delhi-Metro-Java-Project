@@ -1,0 +1,8 @@
+Delhi Metro java Project 
+Our project aims to provide functionalities such as listing stations, displaying the Metro map, finding the shortest distance between two stations, and determining the shortest path with minimum interchanges. 
+These requirements are essential for helping users navigate the Delhi Metro system efficiently.
+It implements graph data structures to model the Metro network, allowing for efficient route planning using algorithms like Dijkstra's algorithm.
+The command-line interface (CLI) is designed to facilitate user interaction, allowing users to input station names or codes and select desired functionalities.
+The program is implemented using Java, leveraging features like HashMaps for storing station information and graph representations.
+Algorithms like Dijkstra's algorithm are implemented to find the shortest path between two stations, considering distance. 
+The code is structured into methods and classes.
