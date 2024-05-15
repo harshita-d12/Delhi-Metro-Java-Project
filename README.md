@@ -1,10 +1,10 @@
 # Delhi Metro java Project 
-This repository contains a simple Java program designed to help commuters navigate the Delhi Metro system. The program allows users to input the name of their source and destination stations, and it then displays the fare and the shortest metro route to reach the destination. 
+This repository contains a simple Java program designed to help commuters navigate the Delhi Metro system. The program allows users to input the name of their source and destination stations, and it then displays  the shortest metro route to reach the destination. 
 
 
 Key Features:
 
-Graph and Heap Data Structures: The metro system is modeled using nodes and edges. Nodes represent metro stations. Edges represent the distances and costs between connected stations.
+Graph and Heap Data Structures: The metro system is modeled using nodes and edges. Nodes represent metro stations. Edges represent the distances between connected stations.
 
 Shortest Path Algorithms: The program is implemented using Dijkstra algorithm to determine the shortest path between two stations.
 
