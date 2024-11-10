@@ -16,6 +16,11 @@ Java
 - **Shortest Path Algorithms:** The program is implemented using Dijkstra algorithm to determine the shortest path between two stations.
 
 
+## Screenshots:
+
+![image](https://github.com/user-attachments/assets/43fa54af-0a5a-4863-a19f-78eaea98c44b)
+
+
 ## Repository Structure:
 
 - **Main.java:** Contains the core logic and implementation of the metro route finder.
