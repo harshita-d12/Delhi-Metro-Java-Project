@@ -1,5 +1,12 @@
 # Delhi Metro java Project 
-This repository contains a simple Java program designed to help commuters navigate the Delhi Metro system. The program allows users to input the name of their source and destination stations, and it then displays  the shortest metro route to reach the destination. 
+This repository contains a simple Java program designed to help commuters navigate the Delhi Metro system. The program allows users to input the name of their source and destination stations, and it then displays the shortest metro route to reach the destination. 
+
+
+## Demo:
+https://youtu.be/kuxhrtHDe8I?si=1NIapNain9YurSwH
+
+## Technologies Used:
+Java
 
 
 ## Key Features:
@@ -15,8 +22,7 @@ This repository contains a simple Java program designed to help commuters naviga
 
 - **Heap.java:** Contains the heap implementation used for efficiently finding the shortest path.
 
-## Demo:
-https://youtu.be/kuxhrtHDe8I?si=1NIapNain9YurSwH
+
 
 Feel free to explore the code, suggest improvements, or contribute to the project!
 
