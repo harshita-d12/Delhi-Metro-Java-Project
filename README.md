@@ -19,6 +19,10 @@ Java
 ## Screenshots:
 
 ![image](https://github.com/user-attachments/assets/43fa54af-0a5a-4863-a19f-78eaea98c44b)
+![image](https://github.com/user-attachments/assets/a8994bc0-5a70-490f-bcfa-7cbe74a428ae)
+![image](https://github.com/user-attachments/assets/356d3c67-735b-4263-a553-b037ae979aef)
+
+
 
 
 ## Repository Structure:
